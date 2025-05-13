@@ -165,14 +165,9 @@ Returns a response containing details of all recent matches of a team
 
 ## 👥 Contact
 
-- Name: Phinihas
-- Email: phinihasgandi@gmail.com
-- Phone: +91 7995802047
-- Location: Kakinada, Andhra Pradesh, India
-
-## 📱 Social Media
-
-- Instagram: https://www.instagram.com/phinihasgandi/
-- Twitter: https://x.com/GandiPhinihas
+- Name: Bhargav
+- Email: pittabhargav8@gmail.com
+- Phone: +91 9381167477
+- Location: Vizianagaram, Andhra Pradesh, India
 
 
